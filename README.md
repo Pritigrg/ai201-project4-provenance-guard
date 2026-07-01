@@ -433,3 +433,5 @@ Suggested beats:
 python tests/test_scoring.py       # thresholds, confidence branches, exact label text
 python tests/calibrate_signals.py  # live calibration across the confidence range (needs Groq key)
 ```
+
+demo: https://www.loom.com/share/c9fea19b27944d41a88e9ca437081d18
